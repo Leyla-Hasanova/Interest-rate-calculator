@@ -2,6 +2,7 @@
 
 Interest Rate Calculator
 1. What will the program do?
+
 The program will ask the user to answer couple of questions such as loan amount, loan terms
 (number of months), pay back condition (such as monthly, weekly, etc.) and interest rate.
 According to these answers, it will calculate total principal amount, total interest amount and
